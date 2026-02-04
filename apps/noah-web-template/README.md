@@ -4,6 +4,6 @@ Template Vite + React + Tailwind integrado ao **@noah/ui**.
 
 ## Rodar
 ```bash
-pnpm install
-pnpm dev
+npm install
+npm run dev
 ```

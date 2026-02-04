@@ -7,16 +7,16 @@ Este repositório contém:
 - **docs/ux-flows**: fluxos UX padronizados (Educa, Capta, Imob)
 
 ## Começar
-Pré-requisitos: Node 18+ e pnpm.
+Pré-requisitos: Node 18+ e npm.
 
 ```bash
-pnpm install
-pnpm dev
+npm install
+npm run dev
 ```
 
 ## Storybook
 ```bash
-pnpm storybook
+npm run storybook
 ```
 
 ## Versionamento (SemVer)
@@ -24,17 +24,17 @@ Usamos **Changesets** para SemVer e releases.
 
 Criar changeset:
 ```bash
-pnpm changeset
+npm run changeset
 ```
 
 Gerar versions (bump):
 ```bash
-pnpm version-packages
+npm run version-packages
 ```
 
 Publicar:
 ```bash
-pnpm release
+npm run release
 ```
 
 > Versão inicial do design system: **0.1.0**
