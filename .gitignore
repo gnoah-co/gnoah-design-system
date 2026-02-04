@@ -1,0 +1,51 @@
+############################
+# Node.js
+############################
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+*.log
+
+############################
+# Build output
+############################
+dist/
+build/
+out/
+.next/
+.nuxt/
+.svelte-kit/
+storybook-static/
+
+############################
+# Tooling caches
+############################
+.cache/
+.turbo/
+.vite/
+.parcel-cache/
+.eslintcache
+.stylelintcache
+.nyc_output/
+coverage/
+
+############################
+# pnpm / pnp
+############################
+.pnpm-store/
+.pnp.*
+
+############################
+# Environment files
+############################
+.env
+.env.*
+!.env.example
+
+############################
+# OS / Editor
+############################
+.DS_Store
+Thumbs.db

@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --noah-primary: #F28928;
+  --noah-secondary: #1B2733;
+  --noah-tertiary: #A4A5A2;
+  --noah-bg-dark: #171D23;
+  --noah-bg-light: #C7DBE2;
+}
+
+body { font-family: Inter, system-ui, -apple-system, Segoe UI, Roboto, sans-serif; }
