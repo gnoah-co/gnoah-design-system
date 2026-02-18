@@ -32,7 +32,10 @@ O projeto será aberto em `http://localhost:3000` com exemplos de todos os compo
 - **Badge** - Etiquetas e tags
 - **Card** - Containers com título e ação
 - **Input** - Campos de texto com label, helper e erro
+- **Textarea** - Campo multilinha
 - **Select** - Dropdown com opções
+- **Autocomplete** - Input com sugestões
+- **MaskedInput** - Input com máscara
 
 ### Feedback
 - **Toast** - Notificações temporárias (success, danger, default)
@@ -40,14 +43,26 @@ O projeto será aberto em `http://localhost:3000` com exemplos de todos os compo
 - **EmptyState** - Estado vazio com ícone e ação
 - **Skeleton** - Loading placeholders
 
+### Formulários
+- **Checkbox** - Seleção booleana
+- **RadioGroup** - Seleção única por opções
+- **Switch** - Alternador de estado
+- **DatePicker** - Seleção de data
+- **TimePicker** - Seleção de horário
+
 ### Navegação
 - **Tabs** - Abas para organizar conteúdo
 - **Pagination** - Paginação numérica
 - **Accordion** - Painéis expansíveis
+- **NavMenu** - Menu de navegação
 
 ### Dados
 - **Table** - Tabelas com tipagem genérica
-- **Autocomplete** - Input com sugestões
+
+### Ações e utilitários
+- **ThemeToggle** - Alternar tema
+- **NotificationBell** - Indicador de notificações
+- **HeaderProfile** - Perfil do usuário no header
 
 ## 📚 Uso
 
